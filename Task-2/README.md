@@ -1,3 +1,5 @@
+![image](https://github.com/komalidevi810/OIBSIP/assets/152595820/b9fd8c9e-ad15-4232-873d-4509f4af86d5)
+
 # Number Guessing Game
 
 This is a simple Java console application that allows users to play a number guessing game. The game generates a random number within a specified range, and the user has to guess the number. The program keeps track of the number of attempts made by the user and records the scores.
