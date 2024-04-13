@@ -23,6 +23,6 @@ Check out a demonstration of the Number Guessing Game in action on LinkedIn:
 
 Check out a demonstration of the Digital Library Management System in action on LinkedIn:
 
-[Watch Demo Video on LinkedIn](https://www.linkedin.com/posts/komali-devi_oasisinfobyte-java-programming-activity-7184091899480211456-klPS?utm_source=share&utm_medium=member_desktop)
+[Watch Demo Video on LinkedIn](https://www.linkedin.com/posts/komali-devi_javadevelopment-digitallibrary-oasisinfobyte-activity-7184963199572606976-aOWu?utm_source=share&utm_medium=member_desktop)
 
 Thank you for visiting my repository! 🚀
